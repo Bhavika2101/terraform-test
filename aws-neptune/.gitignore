@@ -1,0 +1,4 @@
+# folders
+.terraform/
+.terraform.*
+*.tfvars
